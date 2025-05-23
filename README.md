@@ -1,7 +1,7 @@
-# 🫀 Heart Disease Classification with Feature Selection and Model Optimization
+# 🫀 [Heart Disease Classification with Feature Selection and Model Optimization](https://colab.research.google.com/drive/1KDdnuwmXx5TNjlYQYi01MmXn1lkHASkg?usp=sharing)
 
 ---
-## Introduction
+## 📍 Introduction
 
 Heart disease is one of the leading causes of death worldwide. It occurs when blood is unable to flow properly to the heart (Yadav, D.C., et al., 2020). According to the World Health Organization (WHO), approximately 17.9 million people die from heart disease each year. Therefore, early detection during initial examinations is crucial to prevent more serious complications. In a previous study by Yadav, D.C., et al., heart disease prediction was performed using feature selection with Pearson correlation and classification using the Random Forest method. The selected features were cp, exang, and oldpeak.
 
@@ -23,6 +23,8 @@ This project focuses on predicting heart disease using machine learning classifi
 4. To analyze the evaluation metrics (accuracy, recall, precision, and F1 score) of the three classification methods used.
 
 ---
+
+Link Code : [Google Colab](https://colab.research.google.com/drive/1KDdnuwmXx5TNjlYQYi01MmXn1lkHASkg?usp=sharing)
 
 ## 📂 Dataset
 
